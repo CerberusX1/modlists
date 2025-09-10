@@ -1,25 +1,38 @@
-Title
-The Arcadia List
-
-
-Description
-This mod list is Sim Settlement 2 based, with alot of fixes, extra quests, and enhanced graphics, while keeping this easy to mod for the end user, alot of the mods are ESL so they do not take up load slots.
-
-this pack uses alot of 4K textures with some 2K mixed in, it is recomended to set grahpics to mediume or high, as ultra may impact preformance no matter how good your pc is, F4 is a old game and does not care how good your PC is.
-
-to change this list into NSFW mode just rerun the installer for caliente's beautiful bodies enhancer witch can be found in the downloads tab.
-
-Author
-Sky Aurelia
-
-Maintainers
-github/CerberusX1
-
-Game
-Fallout 4 With All DLC
-
-Tags
-steam, SS2, Fixes, Graphics, Quests
-
-NSFW
-false
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Arcadia List",
+    "description": "This mod list is Sim Settlement 2 based, with alot of fixes, extra quests, and enhanced graphics, while keeping this easy to mod for the end user, alot of the mods are ESL so they do not take up load slots.",
+    "author": "Sky Aurelia",
+    "maintainers": [
+      "github/CerberusX1"
+    ],
+    "game": "Fallout 4",
+    "tags": [
+      "SS2",
+      "Quests",
+      "Graphics"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "",
+      "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "TheArcadiaList",
+      "discordURL": "https://discord.gg/RsnnDtfNJu"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "ceu84zpGgTc=",
+      "Size": 2477677320,
+      "NumberOfArchives": 469,
+      "SizeOfArchives": 86181188753,
+      "NumberOfInstalledFiles": 14503,
+      "SizeOfInstalledFiles": 97651781927
+    },
+    "version": "1.0.0"
+  }
+]
