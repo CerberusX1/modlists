@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/The%20Arcadia%20List2.png",
       "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
       "download": "",
       "machineURL": "TheArcadiaList",
