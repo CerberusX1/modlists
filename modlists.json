@@ -9,9 +9,9 @@
     ],
     "game": "Fallout 4",
     "tags": [
-      "SS2",
-      "Quests",
-      "Graphics"
+      "DLC Required",
+      "Steam",
+      "SFW"
     ],
     "nsfw": false,
     "image_contains_title": false,
@@ -20,7 +20,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "",
       "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "",
       "machineURL": "TheArcadiaList",
       "discordURL": "https://discord.gg/RsnnDtfNJu"
     },
