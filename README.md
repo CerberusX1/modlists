@@ -16,7 +16,15 @@ Run the Game (Initial Launch): Launch Fallout 4 once to allow it to create a fre
 
 step 2 download the mod list useing wabbajack
 
-step 3 play
+step 3 launch MO2 from The Arcadia List.exe found inside the location you donwloaded it to
+once MO2 has opened at the bottom you will notice 2 deviders, 4K textures and 2K textures, please decide if you want 2K or 4K 
+and enable to textures 2K or 4K depending on what you want and what you system can handle, DO NOT ENABLE BOTH
+
+step 4 add LOOT to MO2 if it is not already shown in it, download LOOT if you have not already.
+
+Step 5 Run LOOT from inside MO2 and select fallout 4 from the game drop down box, once its done detecting your mods, please sort the load order and apply it.
+
+step 6 play fallout 4 and enjoy the mods
 
 Extra:
 if you would like to change this mod pack to NSFW just rerun the installer for caliente's beautiful bodies enhancer witch can be found in the downloads tab.
