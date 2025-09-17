@@ -20,7 +20,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/The%20Arcadia%20List2.png",
-      "readme": "https://raw.githubusercontent.com/CerberusX1/modlists/refs/heads/main/README.md",
+      "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/The%20Arcadia%20List.wabbajack_8f930fb7-b920-4fae-87f1-95a9ead94a27",
       "machineURL": "TheArcadiaList",
       "discordURL": "https://discord.gg/RsnnDtfNJu"
