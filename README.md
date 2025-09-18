@@ -20,9 +20,9 @@ step 3 launch MO2 from The Arcadia List.exe found inside the location you donwlo
 once MO2 has opened at the bottom you will notice 2 deviders, 4K textures and 2K textures, please decide if you want 2K or 4K 
 and enable to textures 2K or 4K depending on what you want and what you system can handle, DO NOT ENABLE BOTH
 
-step 4 add LOOT to MO2 if it is not already shown in it, download LOOT if you have not already.
+step 4 (Optional Step) add LOOT to MO2 if it is not already shown in it, download LOOT if you have not already.
 
-Step 5 Run LOOT from inside MO2 and select fallout 4 from the game drop down box, once its done detecting your mods, please sort the load order and apply it.
+Step 5 (Optional Step) Run LOOT from inside MO2 and select fallout 4 from the game drop down box, once its done detecting your mods, please sort the load order and apply it.
 
 step 6 play fallout 4 and enjoy the mods
 
