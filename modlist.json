@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Arcadia List AE",
+    "description": "This mod list is Sim Settlement 2 based, with alot of fixes, and enhanced graphics, while keeping this easy to mod for the end user, alot of the mods are ESL so they do not take up load slots.",
+    "author": "Sky Aurelia",
+    "maintainers": [
+      "github/CerberusX1"
+    ],
+    "game": "Fallout4",
+    "tags": [
+      "DLC Required",
+      "Steam",
+      "SFW",
+      "Overhaul"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/The%20Arcadia%20List2.png",
+      "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_14896d1b-8f26-4dff-bec4-b8ad34887ae6",
+      "machineURL": "TheArcadiaListAE",
+      "discordURL": "https://discord.gg/K35DnP5XTv"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "GeL6W3kSiS0=",
+      "Size": 2451482,
+      "NumberOfArchives": 102,
+      "SizeOfArchives": 87495132295,
+      "NumberOfInstalledFiles": 3129,
+      "SizeOfInstalledFiles": 89987250493
+    },
+    "version": "1.0.0"
+  }
+]
