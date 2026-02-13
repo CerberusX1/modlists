@@ -14,9 +14,13 @@ Delete AppData Folder (Optional but recommended): For a more thorough clean, del
 Reinstall Fallout 4: Install the game again using your platform's launcher (e.g., Steam). 
 Run the Game (Initial Launch): Launch Fallout 4 once to allow it to create a fresh set of INI files and detect your hardware
 
-step 2 download the mod list useing wabbajack
-
 move on to A.E section for A.E version as the steps here are for Mext-Gen version.
+
+------------------------
+
+Next-Gen
+
+step 2 download the mod list useing wabbajack
 
 step 3 launch MO2 from The Arcadia List.exe found inside the location you donwloaded it to
 once MO2 has opened at the bottom you will notice 2 deviders, 4K textures and 2K textures, please decide if you want 2K or 4K 
@@ -39,5 +43,14 @@ this mod list has not had any extensive changes madde to it, this allows the end
 A.E Version
 
 this sections assumes you have done up to step of the above section, if you have not do so now.
+
+Step 1. you MUST own all DLC and CC content included with AE update along with the ones listed here
+bookmark these launch fallout 4 and download them.
+
+https://creations.bethesda.net/en/fallout4/details/59409bbe-2b5e-4191-817a-5bd4692ad21a/The_Varmint_Rifle
+https://creations.bethesda.net/en/fallout4/details/7fc565f2-eaf5-458b-9ec6-55490432970d/Tale_of_the_Beast_Hunter
+https://creations.bethesda.net/en/fallout4/details/4be8d5f2-e153-407f-9a19-935c74f012d5/Revenge_of_the_Van_Graffs
+
+Step 4. install the modlist 
 
 launch MO2 and play
