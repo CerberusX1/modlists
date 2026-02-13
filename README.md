@@ -16,6 +16,8 @@ Run the Game (Initial Launch): Launch Fallout 4 once to allow it to create a fre
 
 step 2 download the mod list useing wabbajack
 
+move on to A.E section for A.E version as the steps here are for Mext-Gen version.
+
 step 3 launch MO2 from The Arcadia List.exe found inside the location you donwloaded it to
 once MO2 has opened at the bottom you will notice 2 deviders, 4K textures and 2K textures, please decide if you want 2K or 4K 
 and enable to textures 2K or 4K depending on what you want and what you system can handle, DO NOT ENABLE BOTH
@@ -30,3 +32,12 @@ Extra:
 if you would like to change this mod pack to NSFW just rerun the installer for caliente's beautiful bodies enhancer witch can be found in the downloads tab.
 
 this mod list has not had any extensive changes madde to it, this allows the end user to mod this list farther on there own if they wish.
+
+
+----------------------------------------
+
+A.E Version
+
+this sections assumes you have done up to step of the above section, if you have not do so now.
+
+launch MO2 and play
