@@ -54,3 +54,5 @@ https://creations.bethesda.net/en/fallout4/details/4be8d5f2-e153-407f-9a19-935c7
 Step 4. install the modlist 
 
 launch MO2 and play
+
+for support join our discord server. https://discord.gg/K35DnP5XTv
