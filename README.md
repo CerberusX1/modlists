@@ -23,6 +23,9 @@ https://creations.bethesda.net/en/fallout4/details/4be8d5f2-e153-407f-9a19-935c7
 
 Step 4. install the modlist 
 
+Step 5. this modlist has reached its BA2 limit and because of that 2 of the weapons are disabled, i included them incase you might want them over one of the other weapons, if you do enabled them
+be sure to disable 2 others or you will crash.
+
 launch MO2 and play
 
 for support join our discord server. https://discord.gg/K35DnP5XTv
