@@ -14,6 +14,10 @@ Delete AppData Folder (Optional but recommended): For a more thorough clean, del
 Reinstall Fallout 4: Install the game again using your platform's launcher (e.g., Steam). 
 Run the Game (Initial Launch): Launch Fallout 4 once to allow it to create a fresh set of INI files and detect your hardware
 
+-----------------
+if you have NG skip this section and move down below to the NG section.
+------------------
+
 Step 1. you MUST own all DLC and CC content included with AE update along with the ones listed here
 bookmark these launch fallout 4 and download them.
 
@@ -29,3 +33,15 @@ be sure to disable 2 others or you will crash.
 launch MO2 and play
 
 for support join our discord server. https://discord.gg/K35DnP5XTv
+
+-------------------------------------------
+
+The Arcadia List NG
+
+Step 4. install the modlist 
+
+Step 5 open the install location and launch MO2 from thearcadialist.exe
+
+for support join our discord server. https://discord.gg/K35DnP5XTv
+
+
