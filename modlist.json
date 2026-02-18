@@ -36,4 +36,43 @@
     },
     "version": "1.1.2"
   }
+],
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Arcadia List NG",
+    "description": "This list is Vannilia+ it contains tons of fixes, QoL, and SS2. along with some Textures and atomspheric improvements. .",
+    "author": "Sky Aurelia",
+    "maintainers": [
+      "github/CerberusX1"
+    ],
+    "game": "Fallout4",
+    "tags": [
+      "DLC Required",
+      "Steam",
+      "SFW",
+      "Overhaul"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/The%20Arcadia%20List2.png",
+      "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/TheArcadiaListNG.wabbajack_bdf4aa15-7645-49fe-8c04-dcdf255035ef",
+      "machineURL": "TheArcadiaListAE",
+      "discordURL": "https://discord.gg/K35DnP5XTv"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "EtyjV6oYi08=",
+      "Size": 2118454,
+      "NumberOfArchives": 949,
+      "SizeOfArchives": 107340776085,
+      "NumberOfInstalledFiles": 8748,
+      "SizeOfInstalledFiles": 113191753081
+    },
+    "version": "1.0.0"
+  }
 ]
