@@ -72,8 +72,7 @@
       "SizeOfInstalledFiles": 113191753081
     },
     "version": "1.0.0"
-  }
-],
+  },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Arcadia List NG",
