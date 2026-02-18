@@ -1,7 +1,7 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "The Arcadia List AE",
+    "title": "The Arcadia List NG",
     "description": "This list is Vannilia+ it contains tons of fixes, QoL, and SS2. along with some Textures and atomspheric improvements. .",
     "author": "Sky Aurelia",
     "maintainers": [
@@ -34,6 +34,6 @@
       "NumberOfInstalledFiles": 7462,
       "SizeOfInstalledFiles": 105887145718
     },
-    "version": "1.1.2"
+    "version": "1.0.0"
   }
 ]
