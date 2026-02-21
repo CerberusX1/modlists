@@ -30,7 +30,6 @@ this section is optional but if done will allow you to use all mods included in 
 
 Step 4. install the modlist
 
-
 Step 5 Download: https://www.nexusmods.com/fallout4/mods/98589?tab=description Get the latest release from the Files tab
 
 Extract: Unzip anywhere on your PC
@@ -56,6 +55,8 @@ be sure to disable 2 others or you will crash.
 (alternativly if you did the above option to decrease your BA2 limit you will be able to enable all mods in this list)
 
 launch MO2 and play
+
+for tips getting started in this mod list https://github.com/CerberusX1/modlists/blob/main/GettingStarted.MD
 
 for support join our discord server. https://discord.gg/K35DnP5XTv
 
