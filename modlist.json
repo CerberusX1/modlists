@@ -21,20 +21,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/The%20Arcadia%20ListAE.webp",   
       "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Default.wabbajack_c44411c1-abe6-4375-8641-cdd7073e725b",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_ea49026e-2498-4036-b75d-98759a5d4d34",
       "machineURL": "TheArcadiaListAE",
       "discordURL": "https://discord.gg/K35DnP5XTv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "SmkA6fJ21Ig=",
-      "Size": 1895426,
-      "NumberOfArchives": 942,
-      "SizeOfArchives": 109765588999,
-      "NumberOfInstalledFiles": 7624,
-      "SizeOfInstalledFiles": 114807165828
+      "Hash": "pMQv0JLaXlk=",
+      "Size": 1958000,
+      "NumberOfArchives": 953,
+      "SizeOfArchives": 112351975826,
+      "NumberOfInstalledFiles": 7725,
+      "SizeOfInstalledFiles": 117605158742
     },
-    "version": "1.2.1"
+    "version": "1.3.0"
   },
 {
     "$type": "ModListMetadata, Wabbajack.Lib",
