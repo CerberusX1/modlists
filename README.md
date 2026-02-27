@@ -30,28 +30,11 @@ https://creations.bethesda.net/en/fallout4/details/4be8d5f2-e153-407f-9a19-935c7
 ----------------------------------------------
 this section is optional but if done will allow you to use all mods included in this list!
 
-Step 4. install the modlist
+Step 3. install the modlist
 
-Step 5 Download: https://www.nexusmods.com/fallout4/mods/98589?tab=description Get the latest release from the Files tab
+Step 4. install the modlist 
 
-Extract: Unzip anywhere on your PC
-
-Launch: Double-click CCPacker.exe
-
-Auto-Detection: Tool finds Fallout 4 automatically (or you can point it manually at a location for a portable install)
-
-Merge: Click "Merge CC Content" button
-
-Wait: Progress shows status (may take 5-20 minutes)
-
-Activate: Use the Creations/Mods menu or your mod manager to activate the CCPacked esl files
-
-Move: Move the ESL flies to the top of your load order, just under the Creation Club items.
-------------------------------------------------------------------------------
-
-Step 5. install the modlist 
-
-Step 6. this modlist has reached its BA2 limit and because of that 2 of the weapons are disabled, i included them incase you might want them over one of the other weapons, if you do enabled them
+Step 5. this modlist has reached its BA2 limit and because of that 2 of the weapons are disabled, i included them incase you might want them over one of the other weapons, if you do enabled them
 be sure to disable 2 others or you will crash. 
 
 (alternativly if you did the above option to decrease your BA2 limit you will be able to enable all mods in this list)
