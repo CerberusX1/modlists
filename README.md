@@ -53,6 +53,10 @@ Step 4. install the modlist
 
 Step 5 open the install location and launch MO2 from thearcadialist.exe
 
+
+The Arcadia List AE Mini Trailer 
+https://youtu.be/mvTMhce-KXQ
+
 for support join our discord server. https://discord.gg/K35DnP5XTv
 
 
