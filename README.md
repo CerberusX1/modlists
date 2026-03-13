@@ -68,3 +68,5 @@ for missing files, insure you have installed all CC including ones listed in the
 disable overlays sucks as steam, nvidia, game bar, xbox, overwolf, etc they are known to cause issues.
 
 set you antivirus to ignore the modlist folder, sometimes your AV can crash the game.
+
+if you get the weird issue where MO2 decides it wants to disable half of your mods, just reenable them. if you for some reason need to sort them just hit the sort button and let it do its thing, thats how i originally sorted this list and make sure prp and workshop framkework override are at the bottom of the list still. they should be.
