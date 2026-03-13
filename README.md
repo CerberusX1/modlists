@@ -59,4 +59,12 @@ https://youtu.be/mvTMhce-KXQ
 
 for support join our discord server. https://discord.gg/K35DnP5XTv
 
+------------------------------------------------------------------------------------
 
+Troubleshooting.
+
+for missing files, insure you have installed all CC including ones listed in the guide, launch both fallout 4 and creation kit 1 time.
+
+disable overlays sucks as steam, nvidia, game bar, xbox, overwolf, etc they are known to cause issues.
+
+set you antivirus to ignore the modlist folder, sometimes your AV can crash the game.
