@@ -63,6 +63,10 @@ for support join our discord server. https://discord.gg/K35DnP5XTv
 
 Troubleshooting.
 
+STEAM BUG 
+steam is now installing the fallout 4 and creation kit incorrectly, to fix this install them both, fallout 4 first, then creation kit second, open the folder containing creation kit and move its files into the fallout 4 folder, this should solve the issue.
+
+
 for missing files, insure you have installed all CC including ones listed in the guide, launch both fallout 4 and creation kit 1 time.
 
 disable overlays sucks as steam, nvidia, game bar, xbox, overwolf, etc they are known to cause issues.
