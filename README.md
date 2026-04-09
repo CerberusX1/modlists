@@ -32,9 +32,7 @@ this section is optional but if done will allow you to use all mods included in 
 
 Step 3. install the modlist
 
-Step 4. install the modlist 
-
-Step 5. this modlist has reached its BA2 limit and because of that 2 of the weapons are disabled, i included them incase you might want them over one of the other weapons, if you do enabled them
+Step 4. this modlist has reached its BA2 limit and because of that 2 of the weapons are disabled, i included them incase you might want them over one of the other weapons, if you do enabled them
 be sure to disable 2 others or you will crash. 
 
 (alternativly if you did the above option to decrease your BA2 limit you will be able to enable all mods in this list)
