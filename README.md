@@ -1,7 +1,7 @@
 # modlists
 The Arcadia List for fallout 4 AE
 
-THIS LIST REQUIRES AROUND 250GB 
+THIS LIST REQUIRES 280GB 
 
 step 1, make sure your fallout 4 is a clean install
 to do this simply 
