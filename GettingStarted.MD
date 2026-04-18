@@ -4,11 +4,23 @@ This is for the AE version only
 
 this is not a full guide, it is only meant to help new players get started.
 
+-------------------------------------------------------------------------------------------------------
+BERFORE STARTING A GAME
+
+please decide if you want a harder game experince where damage is more accurate, if this sounds like something you want then move on!
+if this sounds like something you do not want then follow these instructions!
+
+open MO2 and navigate to the Better locational damage seperator in the mod catagory, expand it, disable all the mods found here. 
+
+-------------------------------------------------------------------------------------------------------------
+
 when starting a new game, aftere you create your character you be imediatly pomrpt with the SPECIAL and character naming screen.
 after completeing this screen you will be teleported to the inside of the vault 111 cryopod where you will start your adventure.
 
 inside of vault 111 and onward. make sure you pay attention to the once useless vault-tec crates and wooden crates, as there is now very usefull loot inside of them.
 once you have your pipboy please wait about 5 minetes before hitting the button to leave the vault, this gives time for some scripts and mods to fully load up.
+
+i recommend going into MCM and finding sim settlments 2 and going into gameplay, scroll down tell you find cinematic mode and disable it, this seems to cause some issues in my experince.
 
 when you first get your pipeboy the light function might not work as intented, dont worry once you hit the button to open the vault door your light will start to funcation.
 
@@ -18,3 +30,6 @@ dont worry this is easy to fix, just save your game where your at and reload the
 for players wanting a survival experince, there is a survival section in MO2 with some mods to help you make your experince fit your needs, enable what you need or leave them off.
 
 this guide is still being created as the mod list is devloped farther. if you have any questions or concers please join us in discord and let us know.
+
+do not save during combat this can cause save degredation. 
+
