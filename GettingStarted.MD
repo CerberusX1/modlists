@@ -14,7 +14,12 @@ open MO2 and navigate to the Better locational damage seperator in the mod catag
 
 -------------------------------------------------------------------------------------------------------------
 
-Sim Settlments 2 Warning: the triangle of death
+Sim Settlments 2 Warnings
+
+when pre building do not include zimonja as it can cause a bug with the mineutemen quest line.
+
+
+the triangle of death
 
 this is a section in fallout 4 between sancturary, abarnathy farm. and red rocket gas station.
 where the game can load the cells for all 3 locations at the same time, when useing SS2 your settlments can become to big
