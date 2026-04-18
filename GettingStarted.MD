@@ -30,6 +30,11 @@ here is how you can avoide this.
 
 4. Avoid Fast Travel: Fast-traveling directly into one of these locations makes the crash more likely because the game tries to load everything instantly.
 
+5. When useing the pre build system do not pre build all 3 of these locations, tweak the settings and only pre build 1 or 2 of them.
+
+THIS PART IS PREFRENCE NOT REQUIREMENT!
+my personal prefrence is to skip auto build and set the city plan my self as i claim them and i do not ever set up a city plan at red rocket. this again how ever is my own prefrence.
+
 -----------------------------------------------------------------------------------------------------------------
 
 when starting a new game, aftere you create your character you be imediatly pomrpt with the SPECIAL and character naming screen.
