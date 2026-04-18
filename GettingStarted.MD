@@ -14,6 +14,24 @@ open MO2 and navigate to the Better locational damage seperator in the mod catag
 
 -------------------------------------------------------------------------------------------------------------
 
+Sim Settlments 2 Warning: the triangle of death
+
+this is a section in fallout 4 between sancturary, abarnathy farm. and red rocket gas station.
+where the game can load the cells for all 3 locations at the same time, when useing SS2 your settlments can become to big
+causing the game to crash when entreing this zone and loading all 3 cities at the same time.
+
+here is how you can avoide this.
+
+1. Prioritize One Settlement: Pick only one of the three to be a massive, high-level city (e.g., Sanctuary).
+
+2. Keep Others Small: Use Red Rocket and Abernathy for small operations (player home, small farms) or leave them as lower-level city plans.
+
+3. Use City Plan Features: In Sim Settlements 2, use the city planner's desk to select "Performance" or "Low-Poly" city plans if you plan on building all three.
+
+4. Avoid Fast Travel: Fast-traveling directly into one of these locations makes the crash more likely because the game tries to load everything instantly.
+
+-----------------------------------------------------------------------------------------------------------------
+
 when starting a new game, aftere you create your character you be imediatly pomrpt with the SPECIAL and character naming screen.
 after completeing this screen you will be teleported to the inside of the vault 111 cryopod where you will start your adventure.
 
