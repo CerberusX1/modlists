@@ -16,7 +16,7 @@ Delete AppData Folder (Optional but recommended): For a more thorough clean, del
 Reinstall Fallout 4: Install the game again using your platform's launcher (e.g., Steam). 
 Run the Game (Initial Launch): Launch Fallout 4 once to allow it to create a fresh set of INI files and detect your hardware
 
-WHNE YOU FIRST OPEN THE LAUNCHER GO TO OPTIONS AND SET YOUR GRAPHICS TO HIGH OR MEDIUME DO NOT USE ULTRA YOU WILL GET CRASHES FALLOUT 4 IS OLD AND DONT CARE HOW FACNY YOUR PC IS
+WHNE YOU FIRST OPEN THE LAUNCHER GO TO OPTIONS AND SET YOUR GRAPHICS TO HIGH OR MEDIUME DO NOT USE ULTRA YOU WILL GET CRASHES FALLOUT 4 IS OLD AND DONT CARE HOW FANCY YOUR PC IS
 
 
 -----------------
