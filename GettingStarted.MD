@@ -40,6 +40,8 @@ here is how you can avoide this.
 THIS PART IS PREFRENCE NOT REQUIREMENT!
 my personal prefrence is to skip auto build and set the city plan my self as i claim them and i do not ever set up a city plan at red rocket. this again how ever is my own prefrence.
 
+for more help with SS2 please visit this site: https://simsettlements2.com/
+
 -----------------------------------------------------------------------------------------------------------------
 
 when starting a new game, aftere you create your character you be imediatly pomrpt with the SPECIAL and character naming screen.
