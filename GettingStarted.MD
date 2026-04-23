@@ -52,8 +52,6 @@ once you have your pipboy please wait about 5 minetes before hitting the button 
 
 i recommend going into MCM and finding sim settlments 2 and going into gameplay, scroll down tell you find cinematic mode and disable it, this seems to cause some issues in my experince.
 
-when you first get your pipeboy the light function might not work as intented, dont worry once you hit the button to open the vault door your light will start to funcation.
-
 when starting out with SS2 while doing the tutorial quest when the plot types are supposed to activate, (residential, aguricultral, and industrails) there is a chance the plot type will not unlock.
 dont worry this is easy to fix, just save your game where your at and reload the save.
 
