@@ -56,18 +56,15 @@ https://youtu.be/mvTMhce-KXQ
 for support join our discord server. https://discord.gg/K35DnP5XTv
 
 ------------------------------------------------------------------------------------
-Optional but recommended
+Optional Mods
 
-ENB installtainon
+this is recommended for headphone users
 
-1.Download http://enbdev.com/mod_fallout4_v0501.htm
 
-2. navigate to your modlist folder and find your mods folders, create a new folder, name it what ever you like, ENB to make it easy, inside this folder create a folder called root.
+Binural 3D Surround Sound 
+https://www.nexusmods.com/fallout4/mods/39692?tab=description
 
-3.open the downloaded .zip file and navigate to wrapper version, 
-copy d3d11.dll and d3compiler_46.dll into the enb/root folder you created
 
-4. open mo2 and find a mod with the name of the folder you made and enable it, thats it your done with this and ready to play.
 
 
 
