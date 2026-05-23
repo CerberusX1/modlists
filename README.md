@@ -18,11 +18,6 @@ Run the Game (Initial Launch): Launch Fallout 4 once to allow it to create a fre
 
 WHNE YOU FIRST OPEN THE LAUNCHER GO TO OPTIONS AND SET YOUR GRAPHICS TO HIGH OR MEDIUME DO NOT USE ULTRA YOU WILL GET CRASHES FALLOUT 4 IS OLD AND DONT CARE HOW FANCY YOUR PC IS
 
-
------------------
-if you have NG skip this section and move down below to the NG section.
-------------------
-
 Step 2. you MUST own all DLC and CC content included with AE update along with the ones listed here
 bookmark these launch fallout 4 and download them.
 
@@ -30,7 +25,6 @@ https://creations.bethesda.net/en/fallout4/details/59409bbe-2b5e-4191-817a-5bd46
 https://creations.bethesda.net/en/fallout4/details/7fc565f2-eaf5-458b-9ec6-55490432970d/Tale_of_the_Beast_Hunter
 https://creations.bethesda.net/en/fallout4/details/4be8d5f2-e153-407f-9a19-935c74f012d5/Revenge_of_the_Van_Graffs
 
-----------------------------------------------
 this section is optional but if done will allow you to use all mods included in this list!
 
 Step 3. install the modlist
@@ -42,34 +36,6 @@ for tips getting started in this mod list https://github.com/CerberusX1/modlists
 for support join our discord server. https://discord.gg/K35DnP5XTv
 
 -------------------------------------------
-
-The Arcadia List NG
-
-Step 4. install the modlist 
-
-Step 5 open the install location and launch MO2 from thearcadialist.exe
-
-
-The Arcadia List AE Mini Trailer 
-https://youtu.be/mvTMhce-KXQ
-
-for support join our discord server. https://discord.gg/K35DnP5XTv
-
-------------------------------------------------------------------------------------
-Optional Mods
-
-this is recommended for headphone users
-
-
-Binural 3D Surround Sound 
-https://www.nexusmods.com/fallout4/mods/39692?tab=description
-
-
-
-
-
-
-----------------------------------------------------------------------------------
 Troubleshooting.
 
 STEAM BUG 
