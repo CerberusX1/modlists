@@ -39,15 +39,14 @@
   },
 {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "The Arcadia List NG",
-    "description": "This list is Vannilia+ it contains tons of fixes, QoL, and SS2. along with some Textures and atomspheric improvements. .",
+    "title": "TAL: Deep Space",
+    "description": "The Arcadia List: Deep Space is a five‑pillar, vanilla‑plus overhaul that sharpens Starfield into a colder, darker, more atmospheric frontier. It rebuilds the game’s lighting and weather, massively enhances NPC density and behavior, and delivers a full graphics upgrade that deepens environmental realism without breaking lore. Combat is reworked into tactical, high‑stakes firefights, and shipbuilding becomes a true engineering discipline through expanded modules and cleaner construction tools.",
     "author": "Sky Aurelia",
     "maintainers": [
       "github/CerberusX1"
     ],
-    "game": "Fallout4",
+    "game": "Starfield",
     "tags": [
-      "DLC Required",
       "Steam",
       "SFW",
       "Overhaul"
@@ -57,21 +56,21 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/The%20Arcadia%20ListNG.webp",
+      "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/TAL%20Deep%20Space.webp",
       "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/TheArcadiaListNG.wabbajack_bdf4aa15-7645-49fe-8c04-dcdf255035ef",
-      "machineURL": "TheArcadiaListNG",
+      "download": "https://authored-files.wabbajack.org/TAL%20Deep%20Space.wabbajack_b94b5871-f73f-4bb5-a3c3-b6b7f732e246",
+      "machineURL": "TALDEEPSPACE",
       "discordURL": "https://discord.gg/K35DnP5XTv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "EtyjV6oYi08=",
-      "Size": 2118454,
-      "NumberOfArchives": 949,
-      "SizeOfArchives": 107340776085,
-      "NumberOfInstalledFiles": 8748,
-      "SizeOfInstalledFiles": 113191753081
+      "Hash": "zjuesqr7ABM=",
+      "Size": 1165025,
+      "NumberOfArchives": 159,
+      "SizeOfArchives": 126182546986,
+      "NumberOfInstalledFiles": 3402,
+      "SizeOfInstalledFiles": 143332640624
     },
-    "version": "1.0.0"
+    "version": "0.0.1"
   }
 ]
