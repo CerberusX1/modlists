@@ -38,7 +38,7 @@ launch MO2 and play
 
 for tips getting started in this mod list https://github.com/CerberusX1/modlists/blob/main/GettingStarted.MD
 
-for support join our discord server. https://discord.gg/K35DnP5XTv
+for support join our discord server. https://discord.gg/3UaP8ssBSv      UPDATED LINK!!
 
 -------------------------------------------
 Troubleshooting.
