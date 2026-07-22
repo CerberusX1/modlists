@@ -34,7 +34,23 @@ this section is optional but if done will allow you to use all mods included in 
 
 Step 3. install the modlist
 
-launch MO2 and play
+
+enb setup, NOT OPTIONAL!
+
+download this file https://drive.google.com/file/d/1fGC-fp15ZQ0vk205wiv4fHJf1R05dAhw/view?usp=sharing
+
+put downloaded file inside of downloads folder in the modlist.
+
+run mo2, locate the file in the downloads tab inside of mo2
+
+run the mod install, a box will pop up, close the tutorial,
+
+under the main section <data> create a folder named ROOT
+
+move the 2 .dll files into ROOT and hit ok
+
+play the game and enjoy
+
 
 for tips getting started in this mod list https://github.com/CerberusX1/modlists/blob/main/GettingStarted.MD
 
