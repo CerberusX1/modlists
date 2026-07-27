@@ -72,5 +72,47 @@
       "SizeOfInstalledFiles": 142680843548
     },
     "version": "1.0.0"
-  }
+  },
+{
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Arcadia Sands",
+    "description": "Arcadia Sands transforms Fallout 4 into a harsh desert frontier inspired by New Vegas.
+A fully overhauled Commonwealth featuring rebuilt factions, massive weapon expansion, new quests, SS2‑powered settlements, and a sun‑bleached Badlands atmosphere.
+A gritty, story‑rich wasteland reborn through modern visuals, tactical combat, and deep worldbuilding.. .",
+    "author": "Sky Aurelia",
+    "maintainers": [
+      "github/CerberusX1"
+    ],
+    "game": "Fallout4",
+    "tags": [
+      "DLC Required",
+      "Steam",
+      "SFW",
+      "Overhaul"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/CerberusX1/modlists/blob/main/Arcadia%20Sands.webp",   
+      "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Arcadia%20Sands.wabbajack_c9cc23ac-8f26-42e8-9249-0e42d277c84a",
+      "machineURL": "ArcadiaSands",
+      "modlist": "https://raw.githubusercontent.com/CerberusX1/modlists/main/modlist.txt",
+      "discordURL": "https://discord.gg/K35DnP5XTv"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "gBd5lAUzYUM=",
+      "Size": 4223671,
+      "NumberOfArchives": 308,
+      "SizeOfArchives": 46398563605,
+      "NumberOfInstalledFiles": 10631,
+      "SizeOfInstalledFiles": 55539388090
+    },
+    "version": "0.0.1"
+	  }
 ]
