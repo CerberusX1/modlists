@@ -3,6 +3,8 @@ The Arcadia List for fallout 4 AE  - Section 1
 
 The Arcadia List: Deep Space for starfield - Section 2
 
+Arcadia Sands - Section 3
+
 --------------------------------------------------------------------------
 Section 1 The Arcadia List AE
 
@@ -23,31 +25,13 @@ Run the Game (Initial Launch): Launch Fallout 4 once to allow it to create a fre
 
 WHNE YOU FIRST OPEN THE LAUNCHER GO TO OPTIONS AND SET YOUR GRAPHICS TO HIGH OR MEDIUME DO NOT USE ULTRA YOU WILL GET CRASHES FALLOUT 4 IS OLD AND DONT CARE HOW FANCY YOUR PC IS
 
-Step 2. you MUST own all DLC and CC content included with AE update along with the ones listed here
-bookmark these launch fallout 4 and download them.
+Step 2. you MUST own all DLC and CC content included with AE update launch fallout 4 and download them.
 
-https://creations.bethesda.net/en/fallout4/details/59409bbe-2b5e-4191-817a-5bd4692ad21a/The_Varmint_Rifle
-https://creations.bethesda.net/en/fallout4/details/7fc565f2-eaf5-458b-9ec6-55490432970d/Tale_of_the_Beast_Hunter
-https://creations.bethesda.net/en/fallout4/details/4be8d5f2-e153-407f-9a19-935c74f012d5/Revenge_of_the_Van_Graffs
 
 this section is optional but if done will allow you to use all mods included in this list!
 
 Step 3. install the modlist
 
-
-enb setup, NOT OPTIONAL!
-
-download this file https://drive.google.com/file/d/1fGC-fp15ZQ0vk205wiv4fHJf1R05dAhw/view?usp=sharing
-
-put downloaded file inside of downloads folder in the modlist.
-
-run mo2, locate the file in the downloads tab inside of mo2
-
-run the mod install, a box will pop up, close the tutorial,
-
-under the main section <data> create a folder named ROOT
-
-move the 2 .dll files into ROOT and hit ok
 
 play the game and enjoy
 
@@ -97,6 +81,36 @@ windows 10/11
 Ryzen 7 5700X
 32GB RAM
 Nvidia RTX 3050
+
+
+
+---------------------------------------------------------------------------------------------------------
+Arcadia Sands
+
+this list is beta
+
+
+step 1, make sure your fallout 4 is a clean install
+to do this simply 
+
+Uninstall the Game: Uninstall Fallout 4 from your platform (e.g., Steam). 
+
+Delete Game Folders:
+Installation Folder: Navigate to your game's installation directory (e.g., Steam\\steamapps\\common\\Fallout 4) and manually delete the entire Fallout 4 folder. 
+Documents Folder: Go to C:\\Users\\<YourUsername>\\Documents\\My Games\\ and delete the Fallout4 folder, which contains save files and INI settings. 
+Delete AppData Folder (Optional but recommended): For a more thorough clean, delete the Fallout4 folder within C:\\Users\\<YourUsername>\\AppData\\Local\\. 
+
+Reinstall Fallout 4: Install the game again using your platform's launcher (e.g., Steam). 
+Run the Game (Initial Launch): Launch Fallout 4 once to allow it to create a fresh set of INI files and detect your hardware
+
+WHNE YOU FIRST OPEN THE LAUNCHER GO TO OPTIONS AND SET YOUR GRAPHICS TO HIGH OR MEDIUME DO NOT USE ULTRA YOU WILL GET CRASHES FALLOUT 4 IS OLD AND DONT CARE HOW FANCY YOUR PC IS
+
+Step 2. you MUST own all DLC and CC content included with AE update launch fallout 4 and download them.
+
+
+this section is optional but if done will allow you to use all mods included in this list!
+
+Step 3. install the modlist
 
 
 
