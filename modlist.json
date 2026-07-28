@@ -93,7 +93,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/CerberusX1/modlists/blob/main/Arcadia%20Sands.webp",   
+      "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/Arcadia%20Sands.webp",   
       "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Arcadia%20Sands.wabbajack_bbad1594-66a0-4ea0-beb4-87978bad27b2",
       "machineURL": "ArcadiaSands",
