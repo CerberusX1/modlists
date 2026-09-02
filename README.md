@@ -89,6 +89,7 @@ Arcadia Sands
 
 this list is beta
 
+https://www.youtube.com/watch?v=t1L9nbQ8wHg
 
 step 1, make sure your fallout 4 is a clean install
 to do this simply 
