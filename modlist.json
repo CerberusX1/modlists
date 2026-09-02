@@ -95,20 +95,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/Arcadia%20Sands.webp",   
       "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Arcadia%20Sands.wabbajack_bb44fb6c-fc95-4d9a-92d6-60d1fb90bb6f",
+      "download": "https://authored-files.wabbajack.org/Arcadia%20Sands.wabbajack_155662b3-2acc-463f-b8d9-789eea64c41d",
       "machineURL": "ArcadiaSands",
       "modlist": "https://raw.githubusercontent.com/CerberusX1/modlists/main/modlist.txt",
       "discordURL": "https://discord.gg/K35DnP5XTv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "mnkB2DB2law=",
-      "Size": 5020415,
-      "NumberOfArchives": 449,
-      "SizeOfArchives": 54511581898,
-      "NumberOfInstalledFiles": 19632,
-      "SizeOfInstalledFiles": 66498812605
+      "Hash": "HAIkF6m4viw=",
+      "Size": 5902031,
+      "NumberOfArchives": 454,
+      "SizeOfArchives": 55188713532,
+      "NumberOfInstalledFiles": 33176,
+      "SizeOfInstalledFiles": 68234940956
     },
-    "version": "0.2.3"
+    "version": "1.0"
 	  }
 ]
