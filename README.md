@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://github.com/CerberusX1/modlists/blob/main/The%20%20Arcadia%20List%20AE.webp" alt="Modlist Banner" width="800"
-  <h1>✨ The Arcadia List AE ✨</h1>
-  <p>A comprehensive visual and gameplay overhaul for Fallout 4.</p>
-</div>
-
-
 # modlists
 The Arcadia List for fallout 4 AE  - Section 1
 
@@ -13,7 +6,12 @@ The Arcadia List: Deep Space for starfield - Section 2
 Arcadia Sands - Section 3
 
 --------------------------------------------------------------------------
-Section 1 The Arcadia List AE
+
+<div align="center">
+  <img src="https://github.com/CerberusX1/modlists/blob/main/The%20%20Arcadia%20List%20AE.webp" alt="Modlist Banner" width="800"
+  <h1>✨ The Arcadia List AE ✨</h1>
+  <p>A comprehensive visual and gameplay overhaul for Fallout 4.</p>
+</div>
 
 THIS LIST REQUIRES 280GB 
 
@@ -92,9 +90,12 @@ Nvidia RTX 3050
 
 
 ---------------------------------------------------------------------------------------------------------
-Arcadia Sands
+<div align="center">
+  <img src="https://github.com/CerberusX1/modlists/blob/main/The%20%20Arcadia%20List%20AE.webp" alt="Modlist Banner" width="800"
+  <h1>✨ Arcadia Sands ✨</h1>
+  <p>A comprehensive visual and gameplay overhaul for Fallout 4.</p>
+</div>
 
-this list is beta
 
 https://www.youtube.com/watch?v=t1L9nbQ8wHg
 
