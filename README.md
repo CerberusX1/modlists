@@ -91,7 +91,7 @@ Nvidia RTX 3050
 
 ---------------------------------------------------------------------------------------------------------
 <div align="center">
-  <img src="https://github.com/CerberusX1/modlists/blob/main/The%20%20Arcadia%20List%20AE.webp" alt="Modlist Banner" width="800"
+  <img src="https://github.com/CerberusX1/modlists/blob/main/Arcadia%20Sands.webp" alt="Modlist Banner" width="800"
   <h1>✨ Arcadia Sands ✨</h1>
   <p>A comprehensive visual and gameplay overhaul for Fallout 4.</p>
 </div>
