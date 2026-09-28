@@ -3,9 +3,9 @@
 Table of Contents
 - [**The Arcadia List for fallout 4 AE  - Section 1**](#thearcadialistAE)
 
-- [**The Arcadia List: Deep Space for starfield - Section 2**]()
+- [**The Arcadia List: Deep Space for starfield - Section 2**](#TheArcadiaList:DeepSpace)
 
-- [**Arcadia Sands - Section 3**]()
+- [**Arcadia Sands - Section 3**](#ArcadiaSands)
 
 
 **currently this apllies to all fallout modlists: after installing creation kit, go to its install location and move it to your fallout 4 folder, steam installs it in the wrong location.**
@@ -68,7 +68,7 @@ if you get the weird issue where MO2 decides it wants to disable half of your mo
 
 
 -----------------------------------------------------------------
-Section 2 The Arcadia List: Deep Space
+## TheArcadiaList:DeepSpace
 
 Delete Game Folders:
 Installation Folder: Navigate to your game's installation directory (e.g., Steam\\steamapps\\common\\starfield) and manually delete the entire Starfield folder. 
@@ -102,6 +102,8 @@ Nvidia RTX 3050
   <p>A comprehensive visual and gameplay overhaul for Fallout 4.</p>
 </div>
 
+
+### ArcadiaSands
 
 https://www.youtube.com/watch?v=t1L9nbQ8wHg
 
