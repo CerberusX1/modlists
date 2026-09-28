@@ -3,7 +3,7 @@
 Table of Contents
 - [**The Arcadia List for fallout 4 AE  - Section 1**](#thearcadialistAE)
 
-- [**The Arcadia List: Deep Space for starfield - Section 2**](#TheArcadiaList:DeepSpace)
+- [**The Arcadia List: Deep Space for starfield - Section 2**](#TheArcadiaListDeepSpace)
 
 - [**Arcadia Sands - Section 3**](#ArcadiaSands)
 
@@ -68,7 +68,7 @@ if you get the weird issue where MO2 decides it wants to disable half of your mo
 
 
 -----------------------------------------------------------------
-## TheArcadiaList:DeepSpace
+## TheArcadiaListDeepSpace
 
 Delete Game Folders:
 Installation Folder: Navigate to your game's installation directory (e.g., Steam\\steamapps\\common\\starfield) and manually delete the entire Starfield folder. 
