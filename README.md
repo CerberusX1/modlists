@@ -1,7 +1,7 @@
 # modlists
 
 Table of Contents
-- [**The Arcadia List for fallout 4 AE  - Section 1**](#The Arcadia List AE)
+- [**The Arcadia List for fallout 4 AE  - Section 1**](#the arcadia list AE)
 
 - [**The Arcadia List: Deep Space for starfield - Section 2**]()
 
