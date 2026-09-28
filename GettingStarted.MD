@@ -1,6 +1,6 @@
 Getting Started
 
-This is for the AE version only
+This is for both modlist versions currently as they share some of the same mods.
 
 this is not a full guide, it is only meant to help new players get started.
 
