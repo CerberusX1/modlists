@@ -1,7 +1,7 @@
 # modlists
 
 Table of Contents
-- [**The Arcadia List for fallout 4 AE  - Section 1**](#the arcadia list AE)
+- [**The Arcadia List for fallout 4 AE  - Section 1**](#thearcadialistAE)
 
 - [**The Arcadia List: Deep Space for starfield - Section 2**]()
 
@@ -17,7 +17,7 @@ Table of Contents
   <p>A comprehensive visual and gameplay overhaul for Fallout 4.</p>
 </div>
 
-## The Arcadia List AE
+## TheArcadiaListAE
 
 THIS LIST REQUIRES 280GB 
 
