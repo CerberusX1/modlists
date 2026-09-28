@@ -5,6 +5,8 @@ The Arcadia List: Deep Space for starfield - Section 2
 
 Arcadia Sands - Section 3
 
+
+currently this apllies to all fallout modlists: after installing creation kit, go to its install location and move it to your fallout 4 folder, steam installs it in the wrong location.
 --------------------------------------------------------------------------
 
 <div align="center">
