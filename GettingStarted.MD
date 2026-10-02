@@ -59,6 +59,7 @@ for players wanting a survival experince, there is a survival section in MO2 wit
 
 this guide is still being created as the mod list is devloped farther. if you have any questions or concers please join us in discord and let us know.
 
+do not save during combat
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -68,8 +69,9 @@ when playing in survival mode you will discover a gas mask is required for survi
 
 to find your starting gas mask and filters 
 
-inside f=vault 111 at vault door exit before main exit.
+inside vault 111 at vault door exit before main exit.
 
+https://github.com/CerberusX1/modlists/blob/main/1.jpg
 
 and out side of vault 111 exit
 
@@ -77,5 +79,4 @@ and out side of vault 111 exit
 
 
 
-do not save during combat this can cause save degredation. 
 
