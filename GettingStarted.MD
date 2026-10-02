@@ -59,5 +59,23 @@ for players wanting a survival experince, there is a survival section in MO2 wit
 
 this guide is still being created as the mod list is devloped farther. if you have any questions or concers please join us in discord and let us know.
 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+- Arcadia Sands Survival Profile Only -
+
+when playing in survival mode you will discover a gas mask is required for survival (unless you disable this mod)
+
+to find your starting gas mask and filters 
+
+inside f=vault 111 at vault door exit before main exit.
+
+
+and out side of vault 111 exit
+
+
+
+
+
 do not save during combat this can cause save degredation. 
 
