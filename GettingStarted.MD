@@ -72,6 +72,7 @@ to find your starting gas mask and filters
 inside vault 111 at vault door exit before main exit.
 
 https://github.com/CerberusX1/modlists/blob/main/1.jpg
+https://github.com/CerberusX1/modlists/blob/main/2.jpg
 
 and out side of vault 111 exit
 
