@@ -7,6 +7,8 @@ Table of Contents
 
 - [**Arcadia Sands - Section 3**](#ArcadiaSands)
 
+- [**Fallout 4 Dreadfall - Section 3**](#Dreadfall)
+
 
 **currently this apllies to all fallout modlists: after installing creation kit, go to its install location and move it to your fallout 4 folder, steam installs it in the wrong location.**
 --------------------------------------------------------------------------
@@ -124,10 +126,38 @@ WHNE YOU FIRST OPEN THE LAUNCHER GO TO OPTIONS AND SET YOUR GRAPHICS TO HIGH OR 
 
 Step 2. you MUST own all DLC and CC content included with AE update launch fallout 4 and download them.
 
+Step 3. install the modlist
 
-this section is optional but if done will allow you to use all mods included in this list!
+Step 4. launch mo2 and play
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Dreadfall
+
 
 Step 3. install the modlist
+
+
+
+step 1, make sure your fallout 4 is a clean install
+to do this simply 
+
+Uninstall the Game: Uninstall Fallout 4 from your platform (e.g., Steam). 
+
+Delete Game Folders:
+Installation Folder: Navigate to your game's installation directory (e.g., Steam\\steamapps\\common\\Fallout 4) and manually delete the entire Fallout 4 folder. 
+Documents Folder: Go to C:\\Users\\<YourUsername>\\Documents\\My Games\\ and delete the Fallout4 folder, which contains save files and INI settings. 
+Delete AppData Folder (Optional but recommended): For a more thorough clean, delete the Fallout4 folder within C:\\Users\\<YourUsername>\\AppData\\Local\\. 
+
+Reinstall Fallout 4: Install the game again using your platform's launcher (e.g., Steam). 
+Run the Game (Initial Launch): Launch Fallout 4 once to allow it to create a fresh set of INI files and detect your hardware
+
+WHNE YOU FIRST OPEN THE LAUNCHER GO TO OPTIONS AND SET YOUR GRAPHICS TO HIGH OR MEDIUME DO NOT USE ULTRA YOU WILL GET CRASHES FALLOUT 4 IS OLD AND DONT CARE HOW FANCY YOUR PC IS
+
+Step 2. you MUST own all DLC and CC content included with AE update launch fallout 4 and download them.
+
+Step 3. install the modlist
+
+Step 4. launch mo2 and play
+
 
 
 
