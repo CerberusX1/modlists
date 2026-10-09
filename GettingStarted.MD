@@ -87,6 +87,14 @@ https://github.com/CerberusX1/modlists/blob/main/3.jpg
 # Dreadfall
 
 
+after starting a new game pause the game.
+
+go into MCM and find MAIM, go into diffculty settings and disable lethal player headshot damage, this will prevent you from being instant killed by one of the monsters in this modlist. (if you do not do this you will die)
+
+if you find limb damage and bleed to be tomuch you can disable it or reduce the amount it effects you in the MAIM settings in MCM
+
+
+
 
 
 
