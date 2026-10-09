@@ -39,14 +39,15 @@
   },
 {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "TAL: Deep Space",
-    "description": "The Arcadia List: Deep Space is a five‑pillar, vanilla‑plus overhaul that sharpens Starfield into a colder, darker, more atmospheric frontier. It rebuilds the game’s lighting and weather, massively enhances NPC density and behavior, and delivers a full graphics upgrade that deepens environmental realism without breaking lore. Combat is reworked into tactical, high‑stakes firefights, and shipbuilding becomes a true engineering discipline through expanded modules and cleaner construction tools.",
+    "title": "Fallout 4 Dreadfall",
+    "description": "Dreadfall is a psychological survival horror overhaul for Fallout 4, transforming the Commonwealth into a terrifying nightmare inspired by Silent Hill. Experience oppressive atmosphere, brutal survival, grounded combat, and relentless dread in a world where every journey could be your last.",
     "author": "Sky Aurelia",
     "maintainers": [
       "github/CerberusX1"
     ],
-    "game": "Starfield",
+    "game": "Fallout4",
     "tags": [
+      "DLC Required",
       "Steam",
       "SFW",
       "Overhaul"
@@ -58,20 +59,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/TAL%20Deep%20Space.webp",
       "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/TAL%20Deep%20Space.wabbajack_5712cb0c-25f2-4200-9e1d-1c950658b689",
-      "machineURL": "TALDEEPSPACE",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_91049a3c-7aa4-451d-be87-fbb1873a967e",
+      "machineURL": "Dreadfall",
       "discordURL": "https://discord.gg/K35DnP5XTv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "SrQC4/SIkCo=",
-      "Size": 1170674,
-      "NumberOfArchives": 158,
-      "SizeOfArchives": 125538155007,
-      "NumberOfInstalledFiles": 3182,
-      "SizeOfInstalledFiles": 142680843548
+      "Hash": "gLMHGx1FZck=",
+      "Size": 6513701,
+      "NumberOfArchives": 882,
+      "SizeOfArchives": 16354733446,
+      "NumberOfInstalledFiles": 3959,
+      "SizeOfInstalledFiles": 18250129850
     },
-    "version": "1.0.0"
+    "version": "0.0.1"
   },
 {
     "$type": "ModListMetadata, Wabbajack.Lib",
