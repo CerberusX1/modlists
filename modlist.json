@@ -59,20 +59,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/TAL%20Deep%20Space.webp",
       "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Default.wabbajack_b60b08a0-aa61-4670-b9be-b83b1b662217",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_0021bb01-40cc-44bf-b2e5-c28f940570c0",
       "machineURL": "Dreadfall",
       "discordURL": "https://discord.gg/K35DnP5XTv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "zc9MtEORiGI=",
-      "Size": 6148077,
-      "NumberOfArchives": 905,
-      "SizeOfArchives": 22226897465,
-      "NumberOfInstalledFiles": 4621,
-      "SizeOfInstalledFiles": 25435095269
+      "Hash": "a+s1iThe1DY=",
+      "Size": 6174562,
+      "NumberOfArchives": 910,
+      "SizeOfArchives": 22309767157,
+      "NumberOfInstalledFiles": 4659,
+      "SizeOfInstalledFiles": 25528356978
     },
-    "version": "0.0.3"
+    "version": "0.0.4"
   },
 {
     "$type": "ModListMetadata, Wabbajack.Lib",
