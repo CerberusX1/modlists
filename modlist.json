@@ -21,21 +21,21 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/The%20%20Arcadia%20List%20AE.webp",   
       "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The%20Arcadia%20List%20AE.wabbajack_e0e13ed9-2f24-4555-bc80-ca2d86a32b35",
+      "download": "https://authored-files.wabbajack.org/The%20Arcadia%20List%20AE.wabbajack_7506d845-0ee2-43bc-9090-65301054bc80",
       "machineURL": "TheArcadiaListAE",
       "modlist": "https://raw.githubusercontent.com/CerberusX1/modlists/main/modlist.txt",
       "discordURL": "https://discord.gg/K35DnP5XTv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "AYPYclhP0QA=",
-      "Size": 6931034,
-      "NumberOfArchives": 421,
-      "SizeOfArchives": 103288620758,
-      "NumberOfInstalledFiles": 74077,
-      "SizeOfInstalledFiles": 118776047618
+      "Hash": "Kxmhm2BxLoU=",
+      "Size": 6917365,
+      "NumberOfArchives": 416,
+      "SizeOfArchives": 103253458798,
+      "NumberOfInstalledFiles": 74046,
+      "SizeOfInstalledFiles": 118755095079
     },
-    "version": "1.8.0"
+    "version": "1.8.1"
   },
 {
     "$type": "ModListMetadata, Wabbajack.Lib",
