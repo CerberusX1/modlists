@@ -7,10 +7,10 @@
 
 # Everwild Table of Contents
 
-- [**How to Clean Instal - Section 1**](#CleanInstall)
-- [**How to Configure PageFile - Section 1**](#PageFile)
-- [**How to Configure PageFile - Section 1**](#PageFile)
-
+- [**How to Clean Instal1**](#CleanInstall)
+- [**How to Configure PageFile1**](#PageFile)
+- [**How to Install**](#Installing)
+- [**How to Keep your Save Stable**](#SafePlaying)
 
 ## CleanInstall
 
@@ -56,3 +56,25 @@ Click on OK (a reboot will be required)
 
 #### Installing
 
+Step 1 Launch Wabbajack
+
+Step 2 Navigate to browse modlists, the select skyrim from the list of games.
+
+step 3 locate Everwild and click on it, hit download.
+
+step 4 set the location for the install, downloads should auto fill, hit install.
+
+step 5 when finished downloading, launch mo2 from the specifiec folder and launch mo2 (optionaly right click send to desktop for shortcut)
+
+step 6 make sure everwild is selected in the drop down and hit play.
+
+#### SafePlaying
+
+🔀 Avoid Alt+Tabbing
+🚫 Avoid loading saves mid-session
+📂 Practice safe saving (disable autosaves, save only during calm moments)
+⚡ Quit other resource-hungry apps before launching your modlist
+🖼️ Keep your graphics driver reasonably current, but test each update—if a new driver causes issues, roll back to the last stable version that worked well for you.
+🔥 Return any overclocked hardware (usually excluding RAM using XMP or AMD EXPO) to stock speeds
+👉 💾 Set your Windows Pagefile to 40,000 min and max (especially for 16GB of RAM or less).
+😐 Averaging less than one crash in 4 hours usually isn't a major concern for any heavily modded Skyrim
