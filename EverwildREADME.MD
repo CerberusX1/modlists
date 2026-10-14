@@ -1,8 +1,6 @@
 
 <div align="center">
   <img src="https://github.com/CerberusX1/modlists/blob/main/Arcadia%20Everwild_%20Epic%20Mountain%20Realm.webp" alt="Modlist Banner" width="800"
-  <h1>✨ The Arcadia List AE ✨</h1>
-  <p>A comprehensive visual and gameplay overhaul for Fallout 4.</p>
 </div>
 
 
