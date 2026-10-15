@@ -12,6 +12,11 @@
 - [**How to Install**](#Installing)
 - [**How to Keep your Save Stable**](#SafePlaying)
 
+
+##### The Player's Handbook for a Reimagined Skyrim
+
+https://github.com/CerberusX1/modlists/blob/main/EverwildGettingStarted.MD
+
 ## CleanInstall
 
 Step 1: Uninstall via Steam
