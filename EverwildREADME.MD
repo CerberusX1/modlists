@@ -8,7 +8,7 @@
 # Everwild Table of Contents
 
 - [**How to Clean Instal1**](#CleanInstall)
-- [**How to Configure PageFile1**](#PageFile)
+- [**How to Configure PageFilel**](#PageFile)
 - [**How to Install**](#Installing)
 - [**How to Keep your Save Stable**](#SafePlaying)
 
