@@ -61,7 +61,7 @@ You do not need to rush into the main quest. Arcadia Everwild supports a more op
 
 ---
 
-## 3. Survival: Food, Water, Sleep, and Cold
+## 3. Survival: Food, Water, Sleep, and Cold (MUST BE ENABLED IN VIA MCM)
 
 Arcadia Everwild uses **SunHelm Survival** to add survival mechanics.
 
