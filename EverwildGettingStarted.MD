@@ -17,6 +17,7 @@ This guide will help you begin your adventure, understand the important gameplay
 1. Open Mod Organizer 2.
 2. Select your Arcadia Everwild profile.
 3. Launch Skyrim through the profile's configured **SKSE launcher** rather than launching Skyrim directly through Steam.
+4. Be patient the game can take a while to launch, its loading alot of plugins.
 4. Start a **new game** with your current mod configuration.
 5. Allow the game to finish initializing its mods before beginning your adventure.
 
