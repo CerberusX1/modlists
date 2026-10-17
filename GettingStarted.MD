@@ -4,7 +4,6 @@ Table of Contents
 
 - [**Arcadia Sands & Arcadia List AE - Section 3**](#ArcadiaSands)
 
-## ArcadiaSands
 
 Getting Started
 
@@ -68,23 +67,6 @@ for players wanting a survival experince, there is a survival section in MO2 wit
 this guide is still being created as the mod list is devloped farther. if you have any questions or concers please join us in discord and let us know.
 
 do not save during combat
-
------------------------------------------------------------------------------------------------------------------------
-
-- Arcadia Sands Survival Profile Only -
-
-when playing in survival mode you will discover a gas mask is required for survival (unless you disable this mod)
-
-to find your starting gas mask and filters 
-
-inside vault 111 at vault door exit before main exit.
-
-https://github.com/CerberusX1/modlists/blob/main/1.jpg
-https://github.com/CerberusX1/modlists/blob/main/2.jpg
-
-and out side of vault 111 exit
-
-https://github.com/CerberusX1/modlists/blob/main/3.jpg
 
 # Dreadfall
 
