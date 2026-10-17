@@ -10,6 +10,20 @@ Table of Contents
 - [**Fallout 4 Dreadfall - Section 3**](#Dreadfall)
 
 
+Troubleshooting.
+
+STEAM BUG 
+steam is now installing the fallout 4 and creation kit incorrectly, to fix this install them both, fallout 4 first, then creation kit second, open the folder containing creation kit and move its files into the fallout 4 folder, this should solve the issue.
+
+
+for missing files, insure you have installed all CC including ones listed in the guide, launch both fallout 4 and creation kit 1 time.
+
+disable overlays sucks as steam, nvidia, game bar, xbox, overwolf, etc they are known to cause issues.
+
+set you antivirus to ignore the modlist folder, sometimes your AV can crash the game.
+
+if you get the weird issue where MO2 decides it wants to disable half of your mods, just reenable them. if you for some reason need to sort them just hit the sort button and let it do its thing, thats how i originally sorted this list and make sure prp and workshop framkework override are at the bottom of the list still. they should be.
+
 **currently this apllies to all fallout modlists: after installing creation kit, go to its install location and move it to your fallout 4 folder, steam installs it in the wrong location.**
 --------------------------------------------------------------------------
 
@@ -53,48 +67,10 @@ for tips getting started in this mod list https://github.com/CerberusX1/modlists
 
 for support join our discord server. https://discord.gg/3UaP8ssBSv      UPDATED LINK!!
 
--------------------------------------------
-Troubleshooting.
 
-STEAM BUG 
-steam is now installing the fallout 4 and creation kit incorrectly, to fix this install them both, fallout 4 first, then creation kit second, open the folder containing creation kit and move its files into the fallout 4 folder, this should solve the issue.
+please read this guide.
 
-
-for missing files, insure you have installed all CC including ones listed in the guide, launch both fallout 4 and creation kit 1 time.
-
-disable overlays sucks as steam, nvidia, game bar, xbox, overwolf, etc they are known to cause issues.
-
-set you antivirus to ignore the modlist folder, sometimes your AV can crash the game.
-
-if you get the weird issue where MO2 decides it wants to disable half of your mods, just reenable them. if you for some reason need to sort them just hit the sort button and let it do its thing, thats how i originally sorted this list and make sure prp and workshop framkework override are at the bottom of the list still. they should be.
-
-
------------------------------------------------------------------
-## TheArcadiaListDeepSpace
-
-Delete Game Folders:
-Installation Folder: Navigate to your game's installation directory (e.g., Steam\\steamapps\\common\\starfield) and manually delete the entire Starfield folder. 
-Delete Configuration & Save Files: Go to Documents\My Games\Starfield. If you want to keep your characters, back up the Saves folder elsewhere, then delete the entire Starfield folder 
-to clear out .ini files.Clear AppData (Crucial): Press the Windows Key + R, type %LOCALAPPDATA%, and hit enter. Find and delete the Starfield folder.Reinstall: Open Steam and download the game again to get a fresh, vanilla state
-
-
-step 2. launch starfield for the first time, set your graphics to high, only use ultra if you have a beefy PC.
-
-step 3. open wabbakack and location starfield, find TAL: Deep Space and install it.
-
-step 4. Enable Disk Write Caching (For Performance)Enabling write caching allows the system to accept write requests quickly and hold them in a faster cache, drastically boosting drive performance.Open File Explorer and click This PC.Right-click the drive (e.g., your C: drive) and select Properties.Switch to the Hardware tab, select your specific disk drive, and click Properties.Click the Change settings button (this may require administrator privileges).Go to the Policies tab and check Enable write caching on the device.
-
-step 5. Adjust Virtual Memory (Pagefile)If you are looking to increase the cache-like space the OS uses for heavy loads, modifying the virtual memory changes how Windows offloads temporary data to the disk.Press Windows + R, type sysdm.cpl and hit Enter to open System Properties.Go to the Advanced tab and click Settings under the Performance section.Go to the Advanced tab, and click Change under the Virtual memory section.Uncheck Automatically manage paging file size for all drives.Select your Windows drive, check Custom size, and set an Initial and Maximum size. (A standard rule is to set the minimum to \(1.5\) times and the maximum to \(3\) times your total installed RAM)
-
-step 6. launch Mo2 from the installed location, inside Mo2 make sure TAL:Deep Space is selected and hit play.
-
-MIN SPECS                you may be able to run on lower specs with lower graphics settings. with these specs you should be able to set most settings to high/med with DLSS enabled
-windows 10/11
-300GB SSD
-Ryzen 7 5700X
-32GB RAM
-Nvidia RTX 3050
-
+https://github.com/CerberusX1/modlists/blob/main/Arcadia_List_AE_Getting_Started.md
 
 
 ---------------------------------------------------------------------------------------------------------
