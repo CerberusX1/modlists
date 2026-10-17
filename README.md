@@ -129,6 +129,11 @@ Step 2. you MUST own all DLC and CC content included with AE update launch fallo
 Step 3. install the modlist
 
 Step 4. launch mo2 and play
+
+
+
+https://github.com/CerberusX1/modlists/blob/main/Arcadia_Sands_Getting_Started_Guide.md
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Dreadfall
 
