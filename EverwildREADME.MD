@@ -14,7 +14,7 @@
 - [**what if i Crash?**](#Crashes)
 
 
-##### The Player's Handbook for a Reimagined Skyrim
+##### The Player's Handbook for Everwild
 
 https://github.com/CerberusX1/modlists/blob/main/EverwildGettingStarted.MD
 
