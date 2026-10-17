@@ -11,6 +11,7 @@
 - [**How to Configure PageFile**](#PageFile)
 - [**How to Install**](#Installing)
 - [**How to Keep your Save Stable**](#SafePlaying)
+- [**what if i Crash?**](#Crashes)
 
 
 ##### The Player's Handbook for a Reimagined Skyrim
@@ -73,7 +74,27 @@ step 5 when finished downloading, launch mo2 from the specifiec folder and launc
 
 step 6 make sure everwild is selected in the drop down and hit play.
 
-#### SafePlaying
+
+#### Crashes
+
+What do i do if i crash?
+
+Step 1. try to reproduce the crash. if you can reproduce the crash continue to step 2, if not and it keeps crashing alot randomly then proceed to step 3
+
+Step 2. if you can reproduce the crash, make a list of things that you did to cause it so that i can reproduce it.
+
+Step 3. find your crash log, (it should automatically open it for you) 
+\Documents\My Games\Skyrim Special Edition\SKSE
+the file will look list this
+crash-2026-10-12-200-17-1.log
+there will be number variation, these are the dates and log numbers.
+
+Step 4. join the discord and navigate to the support section and submit your finding.
+
+Step 5. wait for help, i may be at work or sleeping this might take time, sometimes other members might also offer help.
+
+
+##### SafePlaying
 
 🔀 Avoid Alt+Tabbing
 🚫 Avoid loading saves mid-session
