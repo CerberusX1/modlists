@@ -130,7 +130,7 @@ Step 3. install the modlist
 
 Step 4. launch mo2 and play
 
-
+The Player's Handbook for Arcadia Sands
 
 https://github.com/CerberusX1/modlists/blob/main/Arcadia_Sands_Getting_Started_Guide.md
 
