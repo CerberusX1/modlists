@@ -8,6 +8,7 @@
 - [Choose the Right Profile](#choose-the-right-profile)
 - [Before Your First Launch](#before-your-first-launch)
 - [Starting a New Game](#starting-a-new-game)
+- [Vault 111 Starting Items and First-Launch Tips](#vault-111-starting-items-and-first-launch-tips)
 - [Your First Hours in the Commonwealth](#your-first-hours-in-the-commonwealth)
 - [Combat, Weapons, and Equipment](#combat-weapons-and-equipment)
 - [Exploration, Quests, and New Locations](#exploration-quests-and-new-locations)
@@ -74,7 +75,15 @@ The survival profile also enables Barrenwood, uses `Arcadia Sands LOD` rather th
 
 ## Starting a New Game
 
-Both lists include **MS Fast Start – Skip Sanctuary Prologue**. If you use its skip option, follow the prompts it provides and make sure you understand where it places your character before proceeding. If you prefer the opening story, use the normal opening if the mod offers that choice.
+Both lists include **MS Fast Start – Skip Sanctuary Prologue**. With the Arcadia Sands starting setup, after creating your character you will be prompted to choose your **SPECIAL** attributes and name your character. After completing that screen, you will be moved into the Vault 111 cryopod area to begin your adventure. Follow the on-screen prompts and pay attention to the location where the mod places you.
+
+### Vault 111 Starting Items and First-Launch Tips
+
+- **Check the Vault-Tec and wooden crates.** Crates that might seem unimportant in vanilla Fallout 4 can contain useful loot in this list. Search them as you move through Vault 111.
+- **Wait about five minutes before pressing the button to leave the vault.** Once you have your Pip-Boy, allow time for the list’s scripts and mods to finish loading before triggering the vault exit. This is the list author’s recommended precaution.
+- **Consider disabling Sim Settlements 2 Cinematic Mode.** Open MCM, select Sim Settlements 2, open its Gameplay section, scroll to Cinematic Mode, and disable it. The list author reports that this setting has caused issues in their experience.
+- **Do not save during combat.** Wait until the encounter has ended and you are somewhere safe before saving.
+
 
 The lists also include many quest and world additions. For a first run, it is sensible to explore naturally rather than trying to trigger every new quest at once.
 
@@ -162,6 +171,23 @@ This is a major part of the list, not just a small workshop decoration pack.
 7. Avoid uninstalling Sim Settlements 2 or its framework components from an established save.
 
 The list contains many SS2 add-ons, including city-plan packs, support structures, settler leaders, settlement management tools, and other expansions. You do not need to master all of them immediately.
+
+### Sim Settlements 2 warnings for Arcadia Sands
+
+- **Do not include Zimonja in the pre-build selection.** The list author warns that pre-building Outpost Zimonja can cause a bug in the Minutemen questline.
+- **Watch out for the “Triangle of Death.”** This is the area around **Sanctuary, Abernathy Farm, and the Red Rocket truck stop**. The game can load the cells for all three settlements together. If all three have large, high-level Sim Settlements 2 cities, the combined load can cause severe performance problems or crashes when entering the area.
+
+To reduce the risk:
+
+1. **Make only one of the three settlements a major city.** For example, build up Sanctuary while keeping the other two modest.
+2. **Keep the other settlements small.** Red Rocket and Abernathy Farm can serve as a player home, small farm, or lower-level city plan.
+3. **Use performance-friendly city plans when available.** If you want to build all three, consider the city planner’s **Performance** or **Low-Poly** options.
+4. **Avoid fast-travelling directly into the area when possible.** Loading a settlement instantly can make the problem more likely according to the list author’s experience.
+5. **Do not pre-build all three settlements at once.** If you use the pre-build system, adjust its settings and pre-build only one or two of these locations.
+
+**Personal preference, not a requirement:** the list author prefers to skip auto-build, set each city plan manually when claiming a settlement, and never assign a city plan to Red Rocket. You can choose a different approach; this is a personal playstyle recommendation, not a mandatory rule.
+
+For additional help, visit the [official Sim Settlements 2 website](https://simsettlements2.com/).
 
 **Setup item to verify before release:** neither supplied MO2 export visibly lists **HUDFramework** as an enabled mod. The official Sim Settlements 2 requirements list HUDFramework and Workshop Framework, and the Survival profile’s Gas Masks of the Wasteland also lists HUDFramework as a requirement. Check the MO2 left pane and plugin list to confirm HUDFramework is installed and enabled; if it is genuinely missing, resolve that before starting a new playthrough. This is a finding from comparing the supplied lists with the current official requirements, not a claim that the installed game definitely lacks the file.
 
@@ -348,4 +374,24 @@ If a survival feature is missing or behaves unexpectedly:
 
 For your first trip, keep the goal small: explore nearby locations, gather basic supplies, learn how this profile handles healing and rest, and return before you run out of essentials. Once you understand how the survival systems behave, begin planning longer expeditions and tackling the additional quest locations.
 
+### Starting gas mask and filters — Vault 111
+
+In the **Arcadia Sands Survival profile**, Fallout 2287 Gas Masks of the Wasteland is enabled. The list author’s instructions say that a gas mask is required for survival unless you disable that mod. Find the starting gas mask and filters **inside Vault 111, near the vault-door exit and before the main exit**. Do not leave the vault without checking this spot.
+
+**Starting gas mask and filter locations:**
+
+![Vault 111 starting gas mask and filters — location reference 1](https://raw.githubusercontent.com/CerberusX1/modlists/main/1.jpg)
+
+![Vault 111 starting gas mask and filters — location reference 2](https://raw.githubusercontent.com/CerberusX1/modlists/main/2.jpg)
+
+![Vault 111 exit area — location reference 3](https://raw.githubusercontent.com/CerberusX1/modlists/main/3.jpg)
+
+If you choose to disable the gas-mask mod, this requirement no longer applies, but changing the mod setup may affect the intended Survival profile.
+
 **The most important rule:** prepare before leaving, pay attention to your character’s condition, and treat getting home safely as part of the objective.
+
+---
+
+### Guide status and community help
+
+This guide is a work in progress and will be updated as Arcadia Sands continues to develop. If you have questions, run into problems, or have concerns about the list, please join the Arcadia Sands Discord community and let the list team know.
