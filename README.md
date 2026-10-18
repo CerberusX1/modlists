@@ -141,8 +141,7 @@ Step 4. launch mo2 and play
 
 it is highly advised to check the dreadfall section of the getting started guide
 
-https://github.com/CerberusX1/modlists/blob/main/GettingStarted.MD
-
+https://github.com/CerberusX1/modlists/blob/main/Dreadfall_Getting_Started.md
 
 
 
