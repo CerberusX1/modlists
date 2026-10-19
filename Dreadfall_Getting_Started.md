@@ -227,7 +227,7 @@ Check the MCM for each of these to see what is configurable. A companion at your
 
 ## Getting Help
 
-- **The Dreadfall list page**: read the description, changelog, and posts, and ask questions in the comments or in the author's community.
+- **Discord**: read the description, changelog, and posts, and ask questions in the support section. https://discord.gg/3UaP8ssBSv
 - **Wabbajack documentation**: <https://wiki.wabbajack.org/>
 
 When asking for help, include:
