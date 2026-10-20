@@ -59,20 +59,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/Dreadfall_%20A%20Haunted%20Wasteland.webp",
       "readme": "https://github.com/CerberusX1/modlists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Default.wabbajack_0021bb01-40cc-44bf-b2e5-c28f940570c0",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_436bf9e2-2e1b-4d17-b827-2c2e0a7d5aeb",
       "machineURL": "Dreadfall",
       "discordURL": "https://discord.gg/3UaP8ssBSv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "a+s1iThe1DY=",
-      "Size": 6174562,
+      "Hash": "zsKPbE/ND3I=",
+      "Size": 6191726,
       "NumberOfArchives": 910,
-      "SizeOfArchives": 22309767157,
-      "NumberOfInstalledFiles": 4659,
-      "SizeOfInstalledFiles": 25528356978
+      "SizeOfArchives": 22322192958,
+      "NumberOfInstalledFiles": 4664,
+      "SizeOfInstalledFiles": 25537078676
     },
-    "version": "0.0.4"
+    "version": "0.0.5"
   },
 {
     "$type": "ModListMetadata, Wabbajack.Lib",
