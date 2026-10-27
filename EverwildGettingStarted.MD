@@ -2,7 +2,7 @@
 ## Getting Started Guide
 *The Player's Handbook for a Reimagined Skyrim*
 
-Welcome to **Arcadia Everwild**, a heavily modded Skyrim Special Edition / Anniversary Edition experience built around exploration, adventure, challenging combat, survival, immersive environments, and a vast collection of quests.
+Welcome to **Arcadia Everwild**, a heavily modded Skyrim Anniversary Edition experience built around exploration, adventure, challenging combat, survival, immersive environments, and a vast collection of quests.
 
 This is not simply vanilla Skyrim with better graphics. The world contains expanded locations, new lands, additional followers, new equipment, redesigned interiors, seasonal environmental changes, and a major museum collecting system.
 
