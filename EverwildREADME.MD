@@ -77,7 +77,7 @@ step 6 make sure everwild is selected in the drop down and hit play.
 
 ## SkyrimNet
 
-This section if for Skynet profile only and not required if your not on that profile.
+This section is for the SkyrimNet profile only and is not required if you're not on that profile.
 
 SkyrimNet lets NPCs hold real conversations using AI. It needs a few pieces to work: an **LLM** (the brain, writes the dialogue), **TTS** (the voice) and **STT** (speech-to-text, only needed if you want to talk using your microphone). You can run each piece in the cloud (paid) or on your own PC (local), and mixing the two is totally fine.
 
@@ -85,10 +85,17 @@ You must pick **one** of the three options below. Everything is configured from 
 
 ### Step 1: First Launch
 
-1. Launch Everwild through MO2 as normal.
+1. Launch Everwild through MO2 as normal and wait until the game is running (the main menu is fine). **The game must be running before the dashboard will load.**
 2. SkyrimNet generates working default settings on first launch.
-3. Open your browser and go to `localhost:8080` (or use the Open Dashboard entry in SkyrimNet's in-game wheel menu).
-4. Follow the guided setup wizard, then pick one of the options below.
+3. Once the game is running, open your web browser and go to `http://localhost:8080/` (or use the Open Dashboard entry in SkyrimNet's in-game wheel menu).
+4. Follow the guided setup wizard, then continue to Step 2 below.
+
+### Step 2: Start a New Game and Install the Addons
+
+1. In-game, select **New Game** (or load your save) so SkyrimNet is fully active.
+2. Once the new game is selected, go back to the SkyrimNet dashboard in your browser (`http://localhost:8080/`) and refresh the page.
+3. At the **top of the page**, let it **install the addons**. Wait for the install to finish before continuing.
+4. Then pick one of the options below to set up your LLM, voice and speech settings.
 
 ### Option A: Fateless (Recommended, easiest)
 
