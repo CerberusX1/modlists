@@ -83,6 +83,9 @@ SkyrimNet lets NPCs hold real conversations using AI. It needs a few pieces to w
 
 You must pick **one** of the three options below. Everything is configured from the SkyrimNet dashboard.
 
+THIS IS REQUIRED AND A SEPERATE DOWNLOAD FROM THE MODLIST
+https://developer.nvidia.com/cuda-downloads
+
 ### Step 1: First Launch
 
 1. Launch Everwild through MO2 as normal and wait until the game is running (the main menu is fine). **The game must be running before the dashboard will load.**
