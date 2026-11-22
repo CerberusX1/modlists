@@ -96,20 +96,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CerberusX1/modlists/main/Arcadia%20Everwild_%20Epic%20Mountain%20Realm.webp",
       "readme": "https://github.com/CerberusX1/modlists/blob/main/EverwildREADME.MD",
-      "download": "https://authored-files.wabbajack.org/Arcadia%20Everwild.wabbajack_5b654136-418c-48ff-91ca-a555aa777450",
+      "download": "https://authored-files.wabbajack.org/Arcadia%20Everwild.wabbajack_2ca86c85-ae70-402c-9694-62bb196a82e2",
       "machineURL": "Everwild",
       "discordURL": "https://discord.gg/3UaP8ssBSv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "PJ7jy03LMkk=",
-      "Size": 218759727,
-      "NumberOfArchives": 452,
-      "SizeOfArchives": 82593844557,
-      "NumberOfInstalledFiles": 243509,
-      "SizeOfInstalledFiles": 146416296054
+      "Hash": "S3F2TykpvR8=",
+      "Size": 218952168,
+      "NumberOfArchives": 472,
+      "SizeOfArchives": 81525598524,
+      "NumberOfInstalledFiles": 548090,
+      "SizeOfInstalledFiles": 180951268483
     },
-    "version": "0.0.9"
+    "version": "0.1.0"
   },
 {
     "$type": "ModListMetadata, Wabbajack.Lib",
